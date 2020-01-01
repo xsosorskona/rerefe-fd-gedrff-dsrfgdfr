@@ -1,0 +1,13 @@
+Python 3.7 needed 
+Download here : https://www.python.org/downloads/release/python-370/
+download Windows x86-64 executable installer
+if you open the installer add it to the path
+
+if downloaded open cmd as admin 
+type 
+pip3 install requests 
+if installed you can open the script by double clicking it and start claiming < for windows 
+or 
+
+open the file in terminal then type (chmod +x b.py) then ENTER
+after that type python3 b.py and the script will start < kali linux
