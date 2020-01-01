@@ -61,7 +61,7 @@ def turbo(nam):
     #start monitoring the username
     c = 0
     while turboin == True:
-        c += 1
+        c += 9
         res = requests.get(endpoint.replace("<username>", nam))
         if res.status_code == 404:
             print(f'[{nam}] NAME AVAILABLE TAKING IT')
